@@ -1,0 +1,21 @@
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner= new Scanner(System.in);
+        //Variaveis
+
+        //Menu
+        System.out.println("---------------------------------------------");
+        System.out.println("-----------Programa de bla bla bla-----------");
+        System.out.println("---------------------------------------------");
+
+        //Area Cliente
+        System.out.print("Se quer realizar uma soma escreva 1");
+        //Variavel= scanner.nextInt();
+        System.out.println();
+
+        //Programa
+
+        //Resposta
+    }
+}
